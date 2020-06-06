@@ -38,7 +38,7 @@ CODE_TO_PHASE_NAME_MAP = {
     'CA084': 'Phase 3',
 }
 
-FACING_BERRY_ST = set(['1', '2', '3', '4', '5', '6', '7', '8', '9'])
+FACING_BERRY_ST = set(['01', '02', '03', '04', '05', '06', '07', '08', '09'])
 FACING_COURTYARD_ON_KING_ST = set(['15', '17', '21', '23', '25', '27', '29'])
 FACING_COURTYARD_NEXT_TO_PHASE_2 = set(['32', '34', '36'])
 FACING_PHASE_2 = set(['31', '33', '35', '37', '38'])
